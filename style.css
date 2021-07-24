@@ -1,0 +1,65 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.maintraveldiv{
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.maintraveldiv img{
+    width: 100%;    
+}
+.maintraveldiv hr{
+    width: 230px;
+    
+}
+.maintraveldiv h5,.maintraveldiv p{
+    margin-left: 20px;
+}
+.movieheadfd{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.mt span{
+    color: aquamarine;
+}
+.news_li h4{
+    border-bottom: 2px solid white;
+    padding: 8px;
+}
+.news_li{
+     margin-top: 13px;
+}
+.game hr{
+    margin-bottom: 10px;
+
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img-modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.imgs{
+    width: 940px auto;
+}
